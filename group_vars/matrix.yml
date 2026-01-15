@@ -1,1 +1,3 @@
 synapse_enable_registration: false
+docker_users:
+  - matrix
